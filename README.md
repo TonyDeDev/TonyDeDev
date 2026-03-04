@@ -2,7 +2,7 @@
 Hi! I’m Tony Pham, a sophomore Computer Science student at the University of New Brunswick (UNB).<br>
 I’m passionate about building useful tools and exploring how data can drive better decisions.<br><br>
 
-💻 Currently working on: a study management app built with Kotlin for my class project, designed to help students organize and track their learning.<br><br>
+💻 Currently working on: Revampting my Personal Fitness Project by creating an ETL Pipeline...<br><br>
 
 📊 Learning: more about data analysis and SQL, focusing on how to clean, query, and visualize real-world data.<br><br>
 
