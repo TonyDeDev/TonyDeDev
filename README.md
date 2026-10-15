@@ -1,15 +1,7 @@
-# 💫 About Me:
-Hi! I’m Tony Pham, a sophomore Computer Science student at the University of New Brunswick (UNB).<br>
-I’m passionate about building useful tools and exploring how data can drive better decisions.<br><br>
+# Hi, I'm Tony 👋
 
-💻 Currently working on: Revampting my Personal Fitness Project by creating an ETL Pipeline...<br><br>
+3rd year Computer Science student at UNB Fredericton, specializing in data analysis.
 
-📊 Learning: more about data analysis and SQL, focusing on how to clean, query, and visualize real-world data.<br><br>
+I enjoy building tools and side projects to keep up with new technology.
 
-🚀 Interests: Outside of coding, I enjoy going to the gym and playing badminton.<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tonypham06/) 
-
-
+[Portfolio](https://tonypm.com/) · [LinkedIn](https://www.linkedin.com/in/tonypham06/) · [Resume](https://tonypm.com/assets/resume.pdf)
